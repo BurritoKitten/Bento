@@ -22,8 +22,8 @@ function displayClock() {
 	}
 
 	document.getElementById('hour').innerText = hh;
-	document.getElementById('separator').innerHTML = ' : ';
-	document.getElementById('minutes').innerText = min + ' : ' + sec + ampm;
+	document.getElementById('separator').innerHTML = ':';
+	document.getElementById('minutes').innerText = min + ':' + sec + ampm;
 
 	document.getElementById('month').innerText = mm;
 	document.getElementById('day').innerText = dd;
