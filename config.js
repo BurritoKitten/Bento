@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=__bXavaTkqo',
 				},
 				{
-					name: 'Phonk',
-					link: 'https://www.youtube.com/watch?v=Bnh_-_ZIAOs',
+					name: 'Ambient',
+					link: 'https://www.youtube.com/watch?v=aUG--f5qZjo',
 				},
 				{
 					name: 'Apple Music',
